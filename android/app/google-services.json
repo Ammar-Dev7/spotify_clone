@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970961610776",
+    "project_id": "backend-ef88f",
+    "storage_bucket": "backend-ef88f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970961610776:android:8a00926e6767ad90dbfb6d",
+        "android_client_info": {
+          "package_name": "com.ammar_dev7.spotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-LMb3gq6HTlXhW00PWuytwdXirYDHTGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

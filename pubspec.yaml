@@ -1,0 +1,43 @@
+name: spotify
+description: "spotify clone by ammar"
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_bloc:
+  bloc:
+  flutter_svg:
+  equatable:
+  google_fonts:
+  flutter_screenutil:
+  firebase_core:
+  firebase_auth:
+  dartz:
+  cloud_firestore:
+  get_it:
+  font_awesome_flutter:
+  phosphor_flutter:
+  just_audio:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+   - assets/fonts/
+   - assets/images/
+   - assets/vectors/
